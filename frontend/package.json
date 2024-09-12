@@ -1,0 +1,15 @@
+{
+  "name": "frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "tsc && node ./src/index.js"
+  },
+  "dependencies": {
+    "@types/react": "^17.0.38",
+    "@types/react-dom": "^17.0.38",
+    "express": "^4.17.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "typescript": "^4.3.5"
+  }
+}
